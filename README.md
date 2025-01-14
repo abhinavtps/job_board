@@ -1,13 +1,14 @@
 # Description: Job Board application (Backend implementation)
 
-# Tech Stack : Node Js(Server side JavaScript compilation), Express(server side API management), Mysql(Relational Database for Persistent storage)
-
 # Setup :
 1. Clone the git repo.
 2. Add env variables
 3. mysql -u root -p < db_setup.sql ---> Use this command to setup the database and some initial values
 4. Install all the npm dependencies.
 5. npm run dev  ---> Use this command to Run the web app.
+
+# Tech Stack : 
+Node Js(Server side JavaScript compilation), Express(server side API management), Mysql(Relational Database for Persistent storage)
 
 # Database: jobs_db
 Schema:
