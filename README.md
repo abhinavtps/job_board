@@ -1,4 +1,4 @@
-# Description: Job Board application (Backend implementation)
+# Job Board application (Backend implementation)
 
 # Setup :
 1. Clone the git repo.
