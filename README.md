@@ -6,3 +6,9 @@ Creating a job board with following functionalities
 3. GET /jobs/:id: Retrieve a single posting by ID.
 4. PUT /jobs/:id: Update a posting by ID.
 5. DELETE /jobs/:id: Delete a posting by ID.
+
+
+Using mysql2 driver to connect to mysql database
+
+mysql -u root -p < db_setup.sql
+
